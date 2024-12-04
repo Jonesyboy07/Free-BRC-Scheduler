@@ -15,7 +15,11 @@ Folders:
 API_Tests
 
 > Team_By_Name - Allows you to search for a specific game, and team, and returns direct API Call.
+
 > Player_By_Name - Searches the **whole** of VRML for a player.
+
 > Detailed_Team_Fetch - Searches for a team, by name, then by ID. Stores output in **team_by_ID** with ID as file name.
+
 > Players_In_team - Allows you to search a team by name, and returns all plauers in this team.
+
 > Matches_By_Game - Allows matches to be found by game name. Stores output in 2 jsons, filtered and non found in **Match_By_Game** folder, with Game name in it.
