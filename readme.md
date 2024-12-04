@@ -28,6 +28,8 @@ API_Tests
 
 > Team_Match_Fetch - Fetches upcoming matches by team name, and stores in "Match_By_Team" in team named json file.
 
-> Team_Stats.py - WIP
+> Team_Stats.py - Fetches the stats between two teams
+
+
 Discord_Bot:
 

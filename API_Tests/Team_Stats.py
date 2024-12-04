@@ -27,7 +27,7 @@ class TeamFetcher:
     def fetch_team_statistics(self, game, team_id1, team_id2):
         try:
             # Build the API URL to get the statistical information between two teams
-            api_url = f'https://api.vrmasterleague.com/{game}/Teams/{team_id1}/{team_id2}'
+            api_url = f'https://api.vrmasterleague.com/Teams/{team_id1}/{team_id2}'
 
             # Print the API URL before making the request
             print(f"Fetching statistics from URL: {api_url}")

@@ -1,0 +1,35 @@
+{
+    "player_name": "Yasaifex",
+    "players": [
+        {
+            "player_info": {
+                "player_name": "Yasaifex",
+                "user_logo": "/images/logos/users/c9f1e3e2-8075-4f20-be96-9f1715328572.png",
+                "country": "GB",
+                "nationality": "GB",
+                "date_joined": "2020-10-26 13:15",
+                "discord_tag": "YasaiSky#4394",
+                "team": {
+                    "team_name": "Team Comet",
+                    "team_logo": "/images/logos/teams/b1298b5a-830f-4e72-8ff7-9c6a43113589.png"
+                }
+            },
+            "game_info": {
+                "game_name": "Echo Arena",
+                "team_mode": "team",
+                "match_mode": "match",
+                "game_url": "https://vrmasterleague.com/EchoArena"
+            },
+            "role_info": {
+                "role": "Starter",
+                "is_team_owner": false,
+                "is_team_starter": true
+            },
+            "additional_info": {
+                "stream_url": "https://twitch.tv/Yasaifex",
+                "steam_id": null,
+                "is_terminated": false
+            }
+        }
+    ]
+}
