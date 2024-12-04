@@ -6,3 +6,4 @@ Folders:
 API_Tests
 
 > Team_By_Name - Allows you to search for a specific game, and team, and returns direct API Call.
+> Player_By_Name - Searches the **whole** of VRML for a player.
