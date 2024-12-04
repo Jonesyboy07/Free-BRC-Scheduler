@@ -1,0 +1,1126 @@
+{
+    "upcomingMatches": [
+        {
+            "matchID": "PHmWJuUZQNYWYBtOMt6vvg2",
+            "week": 10,
+            "scheduledTime": "2024-12-04 19:00:00",
+            "homeTeam": {
+                "teamID": "7pDCrMNVqvvPxF-MoPKUgA2",
+                "name": "ZYN",
+                "division": "Gold",
+                "logo": "/images/logos/teams/6c408d95-e122-49cc-a8d1-e3c4f162243d.png"
+            },
+            "awayTeam": {
+                "teamID": "f8WpPGl5WEUdBj1KanE4IA2",
+                "name": "AESIR EU",
+                "division": "Master",
+                "logo": "/images/logos/teams/57310c08-9be1-4e4a-b76c-fd8cee3a9f87.png"
+            },
+            "betCounts": {
+                "homeBetCount": 5,
+                "awayBetCount": 55
+            },
+            "castUpvotes": 7,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "FaPs8k1H8ZMkuG7DdUAa9g2",
+            "week": 11,
+            "scheduledTime": "2024-12-04 20:30:00",
+            "homeTeam": {
+                "teamID": "3zU72u7erueFnuKnV8ZBXg2",
+                "name": "Mattress Aging Dino",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/fe31a850-958d-4d8e-b92d-e607df436474.png"
+            },
+            "awayTeam": {
+                "teamID": "kpHbFOWhC0K7wyMMbCbjtQ2",
+                "name": "The Ronins VR EU",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/fbee40d2-f6ca-481a-88fb-ea93f67b5d25.png"
+            },
+            "betCounts": {
+                "homeBetCount": 3,
+                "awayBetCount": 13
+            },
+            "castUpvotes": null,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "ohU20iWOwfBMK8U1NFlmUA2",
+            "week": 11,
+            "scheduledTime": "2024-12-05 02:00:00",
+            "homeTeam": {
+                "teamID": "RBJQoxD0q63dtvrUSNy9GQ2",
+                "name": "Formula 3",
+                "division": "Master",
+                "logo": "/images/logos/teams/8b8f2d1a-4670-42ee-953d-c072937a449b.png"
+            },
+            "awayTeam": {
+                "teamID": "WFO4bSmK1WiplTnx_Zt03g2",
+                "name": "Eternity",
+                "division": "Master",
+                "logo": "/images/logos/teams/090690e0-3ed7-4894-9d3f-8d9df73c2bb7.png"
+            },
+            "betCounts": {
+                "homeBetCount": 62,
+                "awayBetCount": 1
+            },
+            "castUpvotes": 13,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": "https://youtu.be/oOjF34_QgCE",
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "BqPxQulsRm9zHTUPYNsH7g2",
+            "week": 11,
+            "scheduledTime": "2024-12-05 02:00:00",
+            "homeTeam": {
+                "teamID": "uZWxwFyKATa3MsmGGN7G2g2",
+                "name": "Extinction",
+                "division": "Silver",
+                "logo": "/images/logos/teams/c7c80af6-81ff-420d-b870-4d64d079a435.png"
+            },
+            "awayTeam": {
+                "teamID": "mr6ABLcnEOhgBFa8OjADdg2",
+                "name": "Blue.x",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/3cd7b1c8-7d6a-4057-81a8-e9aa02597d07.png"
+            },
+            "betCounts": {
+                "homeBetCount": 23,
+                "awayBetCount": 1
+            },
+            "castUpvotes": 1,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "d77ULBftQUMXlZurn9tQwA2",
+            "week": 11,
+            "scheduledTime": "2024-12-05 02:30:00",
+            "homeTeam": {
+                "teamID": "ALY5_WIVLZBGN8S6JEIwvA2",
+                "name": "Elite Shadows",
+                "division": "Silver",
+                "logo": "/images/logos/teams/62f0fc86-fb0e-43a1-a219-5e56c8916b7e.png"
+            },
+            "awayTeam": {
+                "teamID": "FGupHxjKs92OI0r0GEM7kA2",
+                "name": ".44 Caliber",
+                "division": "Silver",
+                "logo": "/images/logos/teams/2b7b9269-c19c-4c5d-ad3d-adbb6f11dad6.png"
+            },
+            "betCounts": {
+                "homeBetCount": 14,
+                "awayBetCount": 3
+            },
+            "castUpvotes": null,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "Jz3J21SKIRCutzMDMZgvuA2",
+            "week": 11,
+            "scheduledTime": "2024-12-06 02:00:00",
+            "homeTeam": {
+                "teamID": "Fz8vvLCDUclTYHpaSuXQRA2",
+                "name": "ivi NA",
+                "division": "Master",
+                "logo": "/images/logos/teams/a9a7800b-c3d9-4d38-af73-44a3e722ec2c.png"
+            },
+            "awayTeam": {
+                "teamID": "b0nMxdjF5L-x_GuAD5v8kA2",
+                "name": "Aesir",
+                "division": "Master",
+                "logo": "/images/logos/teams/b1bbb711-f27c-4c1f-8a58-bcbd5c9713c8.png"
+            },
+            "betCounts": {
+                "homeBetCount": 26,
+                "awayBetCount": 34
+            },
+            "castUpvotes": 23,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "JVkgGmyKa_gF5GI5LVob7w2",
+            "week": 11,
+            "scheduledTime": "2024-12-06 20:00:00",
+            "homeTeam": {
+                "teamID": "haiBhad_IU1TR8dPd7ghUg2",
+                "name": "Formula 3 EU",
+                "division": "Gold",
+                "logo": "/images/logos/teams/9fec356e-fb91-4973-b4b6-3da91dd97be5.png"
+            },
+            "awayTeam": {
+                "teamID": "G7IG6QAuVCYEDn7Ph0RXQg2",
+                "name": "Berserk",
+                "division": "Master",
+                "logo": "/images/logos/teams/ec3d5931-2c06-44dd-aad4-563e87992f56.png"
+            },
+            "betCounts": {
+                "homeBetCount": 3,
+                "awayBetCount": 20
+            },
+            "castUpvotes": 4,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "xPH9p3u78scghQO75enVgw2",
+            "week": 11,
+            "scheduledTime": "2024-12-07 01:00:00",
+            "homeTeam": {
+                "teamID": "uewCk2oqB5lmJwkIvijDVg2",
+                "name": "GotNow",
+                "division": "Gold",
+                "logo": "/images/logos/teams/7b6c68d8-e0d1-4062-bd8d-c336f251f293.png"
+            },
+            "awayTeam": {
+                "teamID": "fTUvZo5iK4mRNlBSp0RHtQ2",
+                "name": "United States",
+                "division": "Gold",
+                "logo": "/images/logos/teams/0e51016d-92c2-46d0-a7db-a4937c5d41f8.png"
+            },
+            "betCounts": {
+                "homeBetCount": 2,
+                "awayBetCount": 35
+            },
+            "castUpvotes": 5,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "LydcWEznaeZAQrcYYnS4iQ2",
+            "week": 11,
+            "scheduledTime": "2024-12-07 01:00:00",
+            "homeTeam": {
+                "teamID": "UKY49ad9nhLrbotJImQAXg2",
+                "name": "Iq corp",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/11459639-9bd3-4404-afea-5fe22bab9149.png"
+            },
+            "awayTeam": {
+                "teamID": "xIL2lKFHDEwKqmuMv1NHTQ2",
+                "name": "Odd Future",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/3742fc5a-bef8-4777-932c-5046e758cc5d.png"
+            },
+            "betCounts": {
+                "homeBetCount": 15,
+                "awayBetCount": 0
+            },
+            "castUpvotes": 3,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "d50zpCMb0mYkl_n5BztYRw2",
+            "week": 11,
+            "scheduledTime": "2024-12-07 10:00:00",
+            "homeTeam": {
+                "teamID": "_RKjVoAyWJiiJv-VR-8LDQ2",
+                "name": "Legion Invictus",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/5314cc3f-dc54-43d8-8f34-81369a029afe.png"
+            },
+            "awayTeam": {
+                "teamID": "pFnowYpmiyFlvsvpMi1iCg2",
+                "name": "Soap Dispensers Reborn",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/826b1650-9922-49a0-882a-7a041817ba96.png"
+            },
+            "betCounts": {
+                "homeBetCount": 0,
+                "awayBetCount": 8
+            },
+            "castUpvotes": null,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "d6xxSa7iF4VaZIctDSHw_A2",
+            "week": 11,
+            "scheduledTime": "2024-12-07 20:00:00",
+            "homeTeam": {
+                "teamID": "G_UQyjQRoVqqJmcuFPwCYw2",
+                "name": "FAWKEX",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/dfccadca-9d5e-47b6-907b-8936642200a8.png"
+            },
+            "awayTeam": {
+                "teamID": "3yrCaN9TZAyofyhyUUZ1xQ2",
+                "name": "AETHIC",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/00a9875e-6f3f-4956-a10e-01ca5c7a5a00.png"
+            },
+            "betCounts": {
+                "homeBetCount": 1,
+                "awayBetCount": 15
+            },
+            "castUpvotes": null,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "eXVfYIF8t1rupaBFJLh18g2",
+            "week": 11,
+            "scheduledTime": "2024-12-08 00:00:00",
+            "homeTeam": {
+                "teamID": "7NXKHylphLtM38i7EywB0g2",
+                "name": "Shadow Wizard Money Gang",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/0c12d7e1-8aac-442c-bab7-b655c6e6b37c.png"
+            },
+            "awayTeam": {
+                "teamID": "fyKL_5LE1PNXQwxy6WbLsA2",
+                "name": "Fellars",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/d1a997ec-da53-46dc-af84-ef32068c7bb0.png"
+            },
+            "betCounts": {
+                "homeBetCount": 24,
+                "awayBetCount": 1
+            },
+            "castUpvotes": null,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "9QYggdLPiCC6yBH7a5xGpw2",
+            "week": 11,
+            "scheduledTime": "2024-12-08 01:00:00",
+            "homeTeam": {
+                "teamID": "jYst7qlK71_zeM_TZpKC1Q2",
+                "name": "BEAVERtails",
+                "division": "Master",
+                "logo": "/images/logos/teams/0128ecda-dc9b-48b4-8f11-8f57f35391c4.png"
+            },
+            "awayTeam": {
+                "teamID": "R4F8wJ6-Iaif7pfbSwajCQ2",
+                "name": "Havoc",
+                "division": "Master",
+                "logo": "/images/logos/teams/71430567-a73b-4564-a78c-c50884bc4223.png"
+            },
+            "betCounts": {
+                "homeBetCount": 32,
+                "awayBetCount": 16
+            },
+            "castUpvotes": 4,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "ATyn85vBxHbqn93oQJtrqQ2",
+            "week": 11,
+            "scheduledTime": "2024-12-08 02:00:00",
+            "homeTeam": {
+                "teamID": "pjlarUn97JG-Ta8L8wjxCw2",
+                "name": "Big Little Company",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/098aebbf-7a3f-4caa-b570-05d31f0bf92a.png"
+            },
+            "awayTeam": {
+                "teamID": "u89HtNRYZEXKdP1vxsJisA2",
+                "name": "Empire",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/dae00ea8-6eef-4005-b458-cb260f1e8e99.png"
+            },
+            "betCounts": {
+                "homeBetCount": 44,
+                "awayBetCount": 2
+            },
+            "castUpvotes": 4,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "cEyh5D4XtSCuy50r-LNA_Q2",
+            "week": 11,
+            "scheduledTime": "2024-12-09 02:00:00",
+            "homeTeam": {
+                "teamID": "ux0GqB7frHn2K05C6c9B1g2",
+                "name": "MYST",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/11e966de-2f67-4b8a-9bba-689805ea48cc.png"
+            },
+            "awayTeam": {
+                "teamID": "pbxOHJ6SUa-AxW3z-8n7Yg2",
+                "name": "Shinigamis",
+                "division": "Silver",
+                "logo": "/images/logos/teams/e5ec2d62-c9be-4f16-9187-bdfcb666090f.png"
+            },
+            "betCounts": {
+                "homeBetCount": 5,
+                "awayBetCount": 17
+            },
+            "castUpvotes": null,
+            "isScheduled": true,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        }
+    ],
+    "unscheduledMatches": [
+        {
+            "matchID": "dk8OakEIdYEHaYx0F3jMwA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "qPplPv-2Q_QXW61ZrcfNPA2",
+                "name": "APEX",
+                "division": "Master",
+                "logo": "/images/logos/teams/c4e186ea-8dc7-4784-8b78-6b896c5f30c4.png"
+            },
+            "awayTeam": {
+                "teamID": "WUwCsRQ2M_2bAbYPN8yn9Q2",
+                "name": "ASP3CT",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/b8251105-2281-4ee5-804a-66c582391e48.png"
+            },
+            "betCounts": {
+                "homeBetCount": 38,
+                "awayBetCount": 13
+            },
+            "castUpvotes": 16,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "E0XaC_Wkh01RJZu5fl7ukQ2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "fYGlRgUhPPjNZHa--nk7TQ2",
+                "name": "Pantheon",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/36908c29-da02-4583-9df6-e1875895e56b.png"
+            },
+            "awayTeam": {
+                "teamID": "2ERfSd2BnXGWSDQhYXNwTg2",
+                "name": "VALOR",
+                "division": "Master",
+                "logo": "/images/logos/teams/83aa4f33-db11-4084-b9ea-e159527f51ac.png"
+            },
+            "betCounts": {
+                "homeBetCount": 1,
+                "awayBetCount": 62
+            },
+            "castUpvotes": 11,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "-yOWN6yB4f8syEtHC48IOw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "-zOBjVULI89GrYeer-Yzug2",
+                "name": "HRTSTP",
+                "division": "Silver",
+                "logo": "/images/logos/teams/1c84935a-9c9d-4bbc-a1e0-d374967b0e1f.png"
+            },
+            "awayTeam": {
+                "teamID": "fDptAFhEt0eBXIlmP-HyIw2",
+                "name": "Knights of Jerky",
+                "division": "Silver",
+                "logo": "/images/logos/teams/983e7822-522b-4d24-9331-69024a0dfb8c.png"
+            },
+            "betCounts": {
+                "homeBetCount": 28,
+                "awayBetCount": 4
+            },
+            "castUpvotes": 7,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "owsBbWXRzvODhdpo5YREAw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "eHrYRfORgSFLgdChyKnitg2",
+                "name": "RE.START",
+                "division": "Gold",
+                "logo": "/images/logos/teams/f9ad6043-d5d0-44dc-a864-599f07b2ec9c.png"
+            },
+            "awayTeam": {
+                "teamID": "8zdJlb6jIJPosLi-6gC-Ug2",
+                "name": "Stormwatch",
+                "division": "Silver",
+                "logo": "/images/logos/teams/e5b6472a-3363-45e3-acd0-939f6dea9842.png"
+            },
+            "betCounts": {
+                "homeBetCount": 46,
+                "awayBetCount": 1
+            },
+            "castUpvotes": 4,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "aNGkZluoaSadz6-HAQ6OBg2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "77aLQZmzufo5s9w4QMovUQ2",
+                "name": "A24 Breachers",
+                "division": "Silver",
+                "logo": "/images/logos/teams/50959fe0-0462-4ac3-a786-a80b3f50b048.png"
+            },
+            "awayTeam": {
+                "teamID": "UTsPaiBYnWOVjB7movaXaA2",
+                "name": "Flawless 5",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/07d6c835-de46-4cba-bb68-ea70d6f5817d.png"
+            },
+            "betCounts": {
+                "homeBetCount": 3,
+                "awayBetCount": 17
+            },
+            "castUpvotes": 3,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "oiCOWbh-k8ADxPBr3L7mMw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "NAXIm1K7Mk5A1dNYfrjIqQ2",
+                "name": "Brug",
+                "division": "Gold",
+                "logo": "/images/logos/teams/c1c416fd-9b85-4206-b9f2-20d2ca371a6f.png"
+            },
+            "awayTeam": {
+                "teamID": "bUTjG79hrzROobDR_0CAlw2",
+                "name": "Vanguard",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/2b3989b8-92bb-4cdf-8606-1c895d2908a5.png"
+            },
+            "betCounts": {
+                "homeBetCount": 9,
+                "awayBetCount": 21
+            },
+            "castUpvotes": 3,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "TyEu1mLHPabrw8a0yCsDBA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "p-0HB56Wg4vZbO3aHwCkMA2",
+                "name": "G0D-Squad",
+                "division": "Silver",
+                "logo": "/images/logos/teams/fa10dece-50ce-4101-9ee7-47567cc20b1a.png"
+            },
+            "awayTeam": {
+                "teamID": "iwj9rp2z47AZoH9pTeBP6A2",
+                "name": "Complexity",
+                "division": "Silver",
+                "logo": "/images/logos/teams/5c902df0-b95f-4ad9-9a59-a06eef7e9752.png"
+            },
+            "betCounts": {
+                "homeBetCount": 3,
+                "awayBetCount": 17
+            },
+            "castUpvotes": 3,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "U-KkIasmG46PaZKHqi0zHg2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "_h9dkr4uCrpBRLg_pCgJhg2",
+                "name": "Mafia",
+                "division": "Silver",
+                "logo": "/images/logos/teams/b368053e-3af8-41c8-bb52-797821dcf0c8.png"
+            },
+            "awayTeam": {
+                "teamID": "oLn-cFba46NCp6JxNMbqTQ2",
+                "name": "Khaos",
+                "division": "Gold",
+                "logo": "/images/logos/teams/bed5786a-44ee-496d-bf7e-57556530ef70.png"
+            },
+            "betCounts": {
+                "homeBetCount": 3,
+                "awayBetCount": 24
+            },
+            "castUpvotes": 2,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "120FntTnFDK8ur3oX9RQvQ2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "s3wBBQhtiEoklmvLJpZaOQ2",
+                "name": "Veni! Vidi! Vici!",
+                "division": "Gold",
+                "logo": "/images/logos/teams/fa78dc38-bd33-4155-b8a9-9a289815ddbc.png"
+            },
+            "awayTeam": {
+                "teamID": "LTfYKBYE9FRRZV-aDW_ZBg2",
+                "name": "Fuzzy pumpkins",
+                "division": "Bronze",
+                "logo": "/images/team_logo_120.png"
+            },
+            "betCounts": {
+                "homeBetCount": 24,
+                "awayBetCount": 8
+            },
+            "castUpvotes": 2,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "H3MKt1rr7jVnPQUzja55rw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "04wFsaCaJ7T80Mo1iuZMSg2",
+                "name": "Underdogs",
+                "division": "Silver",
+                "logo": "/images/logos/teams/a0168eef-e969-4618-aa78-7dad25e95c94.png"
+            },
+            "awayTeam": {
+                "teamID": "7pDCrMNVqvvPxF-MoPKUgA2",
+                "name": "ZYN",
+                "division": "Gold",
+                "logo": "/images/logos/teams/6c408d95-e122-49cc-a8d1-e3c4f162243d.png"
+            },
+            "betCounts": {
+                "homeBetCount": 1,
+                "awayBetCount": 24
+            },
+            "castUpvotes": 2,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "OXjhG4tRBjrm2JDv3Diiwg2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "JbYLKxLI3lESHMA9DJEDbg2",
+                "name": "VKNG",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/5d441cc3-e9e1-4779-8d54-4087d4334d91.png"
+            },
+            "awayTeam": {
+                "teamID": "9QGua0IvzQbhxlvtoMnXqQ2",
+                "name": "Proteus",
+                "division": "Silver",
+                "logo": "/images/logos/teams/5f642392-179d-4750-8baa-7c32c66967a6.png"
+            },
+            "betCounts": {
+                "homeBetCount": 0,
+                "awayBetCount": 13
+            },
+            "castUpvotes": 1,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "cSw5uj7isnPkiSuwo2rR6A2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "f8WpPGl5WEUdBj1KanE4IA2",
+                "name": "AESIR EU",
+                "division": "Master",
+                "logo": "/images/logos/teams/57310c08-9be1-4e4a-b76c-fd8cee3a9f87.png"
+            },
+            "awayTeam": {
+                "teamID": "yajg_EC-gHj7I67wy7E5fA2",
+                "name": "Cheeki Breachi",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/43bd65e3-84d2-4773-8466-a1f1d8bdcbda.png"
+            },
+            "betCounts": {
+                "homeBetCount": 25,
+                "awayBetCount": 0
+            },
+            "castUpvotes": 1,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "v_2OkHAc6jVnN8hq7XZmFg2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "e_aoIPgAH1EUgiY12vcSvw2",
+                "name": "KHAOTIC",
+                "division": "Gold",
+                "logo": "/images/logos/teams/fada8bab-0e96-438c-bf3c-fe6c80f202c3.png"
+            },
+            "awayTeam": {
+                "teamID": "JoUuPd-N1HNkMuGpGTIyzw2",
+                "name": "Blaze EU",
+                "division": "Silver",
+                "logo": "/images/logos/teams/7094589b-586d-4bb4-a552-d2cfa60090d1.png"
+            },
+            "betCounts": {
+                "homeBetCount": 2,
+                "awayBetCount": 18
+            },
+            "castUpvotes": 1,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "h6Psh7iv2D3IvfnSG1cBMQ2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "d2OaqwrJKfFihyeZ88aFcA2",
+                "name": "V12",
+                "division": "Silver",
+                "logo": "/images/logos/teams/1aeb99a6-5a73-48d9-bbeb-f59ac09befbd.png"
+            },
+            "awayTeam": {
+                "teamID": "NuOWGhJAWiL71DFOPWt9qw2",
+                "name": "Volume One",
+                "division": "Silver",
+                "logo": "/images/logos/teams/85630b79-3bb5-4803-a9a5-54240b37b731.png"
+            },
+            "betCounts": {
+                "homeBetCount": 21,
+                "awayBetCount": 6
+            },
+            "castUpvotes": 1,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "c9tpRKohwMpC5ceDSVndsA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "hQ3TZuMPCWiflMlntEUSxw2",
+                "name": "The Royals VR",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/990dec94-fba8-4ec5-9ee0-d83a2f49504c.png"
+            },
+            "awayTeam": {
+                "teamID": "1O8en3ltKMood-yLe13-qQ2",
+                "name": "Looking For Team",
+                "division": "Silver",
+                "logo": "/images/logos/teams/c6bc1a60-5758-46ad-b915-0fa1b112a9ed.png"
+            },
+            "betCounts": {
+                "homeBetCount": 11,
+                "awayBetCount": 2
+            },
+            "castUpvotes": 1,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "EzLWLnhE87T2PbpPMLSbVA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "PH4IMsNPPmNphGrTPFU7bQ2",
+                "name": "Nyffin",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/95b9c99c-60ea-4118-bb7f-ea5f97666b18.png"
+            },
+            "awayTeam": {
+                "teamID": "FxMl_Mqcgnj0l1XSnb_I6g2",
+                "name": "SunsetRavens",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/967c25bb-290b-4d8e-8837-e3c331804f18.png"
+            },
+            "betCounts": {
+                "homeBetCount": 0,
+                "awayBetCount": 18
+            },
+            "castUpvotes": 1,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "gnbGK1kyQcvJeT2DkNfcqw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "hqBzyaZC6qw6z2AivUzLxQ2",
+                "name": "Kermit'",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/a375d0b8-cfaa-43e3-9afc-c0bab383f706.png"
+            },
+            "awayTeam": {
+                "teamID": "iLOQfc5mgxUDNcjJSyP3bQ2",
+                "name": "Umbriel",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/950f078a-430e-44e5-98b7-a19eb85f0bb5.png"
+            },
+            "betCounts": {
+                "homeBetCount": 6,
+                "awayBetCount": 2
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "pOW3l5Ix0Ul-_RORiX8Oeg2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "GVNt3ZlhEjNk0cvdzk1P_g2",
+                "name": "Wicketeers",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/52a03ee8-1d43-4d7b-b68b-812cd2a19afd.png"
+            },
+            "awayTeam": {
+                "teamID": "H4OcGss1Ch0YL5RdE3bqhg2",
+                "name": "J3\u2026.",
+                "division": "Bronze",
+                "logo": "/images/team_logo_120.png"
+            },
+            "betCounts": {
+                "homeBetCount": 11,
+                "awayBetCount": 1
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "Y7PqBtn2YHVdtgO23sfXVw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "IEh00mPKarP3iYLarlUq7w2",
+                "name": "Team Juice",
+                "division": "Silver",
+                "logo": "/images/logos/teams/bdef85a7-e694-45ba-93c2-cc20d97acfd1.png"
+            },
+            "awayTeam": {
+                "teamID": "fwmg0WkWuRgtAtReT2K0TQ2",
+                "name": "Vanity",
+                "division": "Silver",
+                "logo": "/images/logos/teams/340df3b5-a44d-4e49-baf2-d550a291afdf.png"
+            },
+            "betCounts": {
+                "homeBetCount": 8,
+                "awayBetCount": 2
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "ljdg9NvN_H26eSf9VL_IKA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "pRbBFn8kVKwjtFXCS8mpyw2",
+                "name": "ClipThat 2.0",
+                "division": "Silver",
+                "logo": "/images/logos/teams/777a4326-ae87-4afe-bb2b-d083f4eb330d.png"
+            },
+            "awayTeam": {
+                "teamID": "Aqwq7ydswAD51JgifPmFkw2",
+                "name": "NomadasVR",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/e442b233-b266-4b08-ab1a-2616f188f448.png"
+            },
+            "betCounts": {
+                "homeBetCount": 10,
+                "awayBetCount": 3
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "Gu47wvPBtkljcJAKqgbRbw2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "AhzX4lwVdVZHxwS9TYJXxg2",
+                "name": "Echo vr enjoyers",
+                "division": "Gold",
+                "logo": "/images/logos/teams/8e569c90-a1e5-40d7-9e93-41c607af805b.png"
+            },
+            "awayTeam": {
+                "teamID": "WL5PbOBoleOPQeniqBB-lg2",
+                "name": "RE.LOAD",
+                "division": "Diamond",
+                "logo": "/images/logos/teams/991aa857-3ffd-4b45-a801-7fb25d23736e.png"
+            },
+            "betCounts": {
+                "homeBetCount": 2,
+                "awayBetCount": 36
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "gB90CRTgLrpsV2yfs6jg5Q2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "fDtfwrsubtOsJi4WTGxYGA2",
+                "name": "Callsign Echo",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/30bf64cd-009d-41ef-bc9b-9e241a628ba7.png"
+            },
+            "awayTeam": {
+                "teamID": "UfRVSxACmZyf2aAO8zqrrA2",
+                "name": "Gloriosa",
+                "division": "Silver",
+                "logo": "/images/logos/teams/fcb876de-0570-45a9-84dc-3e3dd57a9157.png"
+            },
+            "betCounts": {
+                "homeBetCount": 0,
+                "awayBetCount": 14
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "tQzDR6PYgjLioJGrwzWmqA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "W_C4FMjiUdiVm__zh0hncg2",
+                "name": "Legion Praetorian",
+                "division": "Silver",
+                "logo": "/images/logos/teams/a35e727e-6075-4e6b-98b8-a56c19e75cfc.png"
+            },
+            "awayTeam": {
+                "teamID": "lJCyr25NAMV5VqnddxV7VA2",
+                "name": "\u00a5oung Mafia",
+                "division": "Gold",
+                "logo": "/images/logos/teams/d00c143d-cbc3-4527-b08a-88e8da5807cd.png"
+            },
+            "betCounts": {
+                "homeBetCount": 0,
+                "awayBetCount": 5
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "RYxd6qauyaTOJlFvJyorIA2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "Aaip6QZv_zEsX0ZhfFE6cg2",
+                "name": "7DS",
+                "division": "Master",
+                "logo": "/images/logos/teams/fa904954-25f0-42c3-b1d0-4c43d2db2d0c.png"
+            },
+            "awayTeam": {
+                "teamID": "jmz6BKsgfd3y-PZgDRVKyA2",
+                "name": "ARTISAN TACTICS",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/7c348baf-202f-446d-97f2-141caae9ecc5.png"
+            },
+            "betCounts": {
+                "homeBetCount": 12,
+                "awayBetCount": 0
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        },
+        {
+            "matchID": "jFbdFzfIjjivwHLUW6FW4w2",
+            "week": 11,
+            "scheduledTime": "2024-12-02 13:00:00",
+            "homeTeam": {
+                "teamID": "Dad_HbRBxdg48YDsP8Fd7g2",
+                "name": "NYX",
+                "division": "Bronze",
+                "logo": "/images/logos/teams/4445e42e-92ca-4c62-924b-3a49f94cbba1.png"
+            },
+            "awayTeam": {
+                "teamID": "iPYHU4SzCRYky4dDEY0G9Q2",
+                "name": "WarDogs",
+                "division": "Silver",
+                "logo": "/images/logos/teams/12907bda-85d2-4c51-bee4-1ac0bf0dcdfb.png"
+            },
+            "betCounts": {
+                "homeBetCount": 2,
+                "awayBetCount": 11
+            },
+            "castUpvotes": null,
+            "isScheduled": false,
+            "isChallenge": false,
+            "isCup": false,
+            "vodUrl": null,
+            "homeHighlights": null,
+            "awayHighlights": null
+        }
+    ]
+}
