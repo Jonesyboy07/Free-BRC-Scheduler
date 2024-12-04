@@ -1,0 +1,11 @@
+GET /{game}/Players/Search - Fetch a player BY NAME
+
+name	string	The search criteria	
+season?	string	The season ID
+
+
+GET /{game}/Teams/Search - Fetch a team BY NAME
+
+name	string	The search criteria	
+season?	string	The season ID	
+region?	string	Examples: NA, EU, APAC or none
