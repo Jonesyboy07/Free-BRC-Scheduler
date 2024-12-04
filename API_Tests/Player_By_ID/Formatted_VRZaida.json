@@ -1,0 +1,65 @@
+{
+    "player_name": "VRZaida",
+    "players": [
+        {
+            "player_info": {
+                "player_name": "VRZaida",
+                "user_logo": "/images/logos/users/ad01cefb-31d6-41bc-adfc-d45a2bcc18ad.png",
+                "country": "CZ",
+                "nationality": "CZ",
+                "date_joined": "2020-12-30 18:58",
+                "discord_tag": "VRzaida#6590",
+                "team": {
+                    "team_name": "Fireballs",
+                    "team_logo": "/images/logos/teams/cba7f322-cf67-483e-a869-13b25db074ef.png"
+                }
+            },
+            "game_info": {
+                "game_name": "Echo Arena",
+                "team_mode": "team",
+                "match_mode": "match",
+                "game_url": "https://vrmasterleague.com/EchoArena"
+            },
+            "role_info": {
+                "role": "Starter",
+                "is_team_owner": false,
+                "is_team_starter": true
+            },
+            "additional_info": {
+                "stream_url": "https://www.youtube.com/channel/UCZ0-62-ZwA4FHmmZgerhtVw",
+                "steam_id": null,
+                "is_terminated": false
+            }
+        },
+        {
+            "player_info": {
+                "player_name": "VRZaida",
+                "user_logo": "/images/logos/users/ad01cefb-31d6-41bc-adfc-d45a2bcc18ad.png",
+                "country": "CZ",
+                "nationality": "CZ",
+                "date_joined": "2020-12-30 18:58",
+                "discord_tag": "VRzaida#6590",
+                "team": {
+                    "team_name": "AESIR EU",
+                    "team_logo": "/images/logos/teams/57310c08-9be1-4e4a-b76c-fd8cee3a9f87.png"
+                }
+            },
+            "game_info": {
+                "game_name": "Breachers",
+                "team_mode": "team",
+                "match_mode": "match",
+                "game_url": "https://vrmasterleague.com/Breachers"
+            },
+            "role_info": {
+                "role": "Player",
+                "is_team_owner": false,
+                "is_team_starter": false
+            },
+            "additional_info": {
+                "stream_url": "https://www.youtube.com/channel/UCZ0-62-ZwA4FHmmZgerhtVw",
+                "steam_id": null,
+                "is_terminated": false
+            }
+        }
+    ]
+}

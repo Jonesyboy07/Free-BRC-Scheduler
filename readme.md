@@ -24,6 +24,7 @@ API_Tests
 
 > Matches_By_Game - Allows matches to be found by game name. Stores output in 2 jsons, filtered and non found in **Match_By_Game** folder, with Game name in it.
 
+> Player_ID_Fetch - Using player name, fetch a user's ID and then search this. This then brings game and match history, and season history.
 
 
 Discord_Bot:
