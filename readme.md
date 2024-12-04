@@ -1,5 +1,14 @@
-The start of my FREE Scheduler which will be open source.
+A free scheduling tool for within VRML made by Jonesy and Capzay.
 
+It uses the VRML API, in which some parts of this code are ripped from another project by *jonesy* which is not public.
+
+In creating this, we aim to make a tool which can be used by **anyone** with simplicity in mind. 
+
+We aim to eventually have a website made for this tool, but it will be **mainly** discord oriented.
+
+If you wish to support us, we will provide links to do so <3
+
+Find out more about Jonesy on https://Jonesyvr.uk 
 
 Folders:
 
