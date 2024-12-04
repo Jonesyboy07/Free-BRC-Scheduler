@@ -1,0 +1,63 @@
+[
+    {
+        "homeBetCount": 25,
+        "awayBetCount": 0,
+        "castUpvotes": 1,
+        "casterCastUpvotes": null,
+        "currentUserVotedTeamID": null,
+        "currentUserUpvotedCast": false,
+        "currentUserUpvotedCasterCast": false,
+        "matchID": "cSw5uj7isnPkiSuwo2rR6A2",
+        "week": 11,
+        "isScheduled": false,
+        "isSpecificDivision": false,
+        "isChallenge": false,
+        "isCup": false,
+        "dateScheduledUTC": "2024-12-02 13:00",
+        "dateScheduledUser": null,
+        "dateScheduledUserTimezone": null,
+        "homeTeam": {
+            "submittedScores": false,
+            "divisionName": "Master",
+            "divisionLogo": "/images/div_master.png",
+            "teamID": "f8WpPGl5WEUdBj1KanE4IA2",
+            "teamName": "AESIR EU",
+            "teamLogo": "/images/logos/teams/57310c08-9be1-4e4a-b76c-fd8cee3a9f87.png",
+            "regionID": "n5YGOR4Aiuq5XQ4mup7OPw2",
+            "regionName": "Europe"
+        },
+        "awayTeam": {
+            "submittedScores": false,
+            "divisionName": "Diamond",
+            "divisionLogo": "/images/div_diamond.png",
+            "teamID": "yajg_EC-gHj7I67wy7E5fA2",
+            "teamName": "Cheeki Breachi",
+            "teamLogo": "/images/logos/teams/43bd65e3-84d2-4773-8466-a1f1d8bdcbda.png",
+            "regionID": "n5YGOR4Aiuq5XQ4mup7OPw2",
+            "regionName": "Europe"
+        },
+        "castingInfo": {
+            "channelType": null,
+            "channelID": null,
+            "channelURL": null,
+            "casterID": null,
+            "caster": null,
+            "casterLogo": null,
+            "coCasterID": null,
+            "coCaster": null,
+            "coCasterLogo": null,
+            "postGameInterviewID": null,
+            "postGameInterview": null,
+            "postGameInterviewLogo": null,
+            "cameramanID": null,
+            "cameraman": null,
+            "cameramanLogo": null
+        },
+        "vodUrl": null,
+        "homeHighlights": null,
+        "awayHighlights": null,
+        "postponeTeamID": null,
+        "modsReview": false,
+        "modsReviewNote": null
+    }
+]

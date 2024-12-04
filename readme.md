@@ -26,6 +26,8 @@ API_Tests
 
 > Player_ID_Fetch - Using player name, fetch a user's ID and then search this. This then brings game and match history, and season history.
 
+> Team_Match_Fetch - Fetches upcoming matches by team name, and stores in "Match_By_Team" in team named json file.
+
 
 Discord_Bot:
 
